@@ -1,0 +1,10 @@
+com/example/layouts/BuildConfig.java
+ com.example.layouts.BuildConfig
+com/example/layouts/databinding/ActivityMainBinding.java
+ com.example.layouts.databinding.ActivityMainBinding
+com/example/layouts/databinding/FragmentDashboardBinding.java
+ com.example.layouts.databinding.FragmentDashboardBinding
+com/example/layouts/databinding/FragmentLinearBinding.java
+ com.example.layouts.databinding.FragmentLinearBinding
+com/example/layouts/databinding/FragmentNotificationsBinding.java
+ com.example.layouts.databinding.FragmentNotificationsBinding
